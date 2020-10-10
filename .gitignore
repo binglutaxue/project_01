@@ -1,4 +1,4 @@
-#忽略掉doc里面的文件
-/doc
+#忽略掉doc里面的pdf文件
+doc/*.pdf
 #忽略掉bulid里面的文件
 /bulid
